@@ -1,0 +1,7 @@
+H:\C#6.0新语法\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+H:\C#6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+H:\C#6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+H:\C#6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+H:\C#6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+H:\C#6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+H:\C#6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
