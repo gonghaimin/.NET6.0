@@ -5,3 +5,9 @@ H:\C#6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
 H:\C#6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
 H:\C#6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
 H:\C#6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+H:\GHM\.NET6.0\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
